@@ -214,7 +214,7 @@ imgaug==0.2.6
 implicit==0.3.8
 importlib-metadata==0.17
 ipykernel==5.1.1
-ipython==7.6.1
+ipython==7.16.3
 ipython-genutils==0.2.0
 ipywidgets==7.4.2
 iso3166==1.0
