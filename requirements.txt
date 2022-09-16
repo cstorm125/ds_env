@@ -272,7 +272,7 @@ locket==0.2.0
 lunardate==0.2.0
 lxml==4.3.4
 lz4==2.1.2
-Mako==1.0.13
+Mako==1.2.2
 marisa-trie==0.7.5
 Markdown==3.1.1
 markovify==0.7.1
